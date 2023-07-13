@@ -12,6 +12,7 @@
 <img align="center" alt="Pedro-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="center" alt="Pedro-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 <img align="center" alt="Pedro-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--SK2mPJLd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2p24444g94djp87cxkhw.gif">
 </div>
   
   ##
