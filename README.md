@@ -1,4 +1,4 @@
-## Olá, eu sou o Pedro, analista de suporte e infraestrutura! 👋
+## Olá! Eu sou o Pedro, analista de suporte e infraestrutura e desenvolvedor PHP! 👋
 
 <p>Atualmente utilizo e estudo essas tecnologias:</p>
 
