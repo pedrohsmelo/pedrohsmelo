@@ -13,7 +13,7 @@
 <img align="center" alt="Pedro-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 <img align="center" alt="Pedro-Bash" height="30" width="30" src="https://icons-for-free.com/iconfiles/png/512/bash+dark-1331550886960171470.png"/>
 </div>
-<img align="right" alt="Rafa-pic" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--SK2mPJLd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2p24444g94djp87cxkhw.gif">
+<img align="right" alt="Pedro-gif" height="200" src="https://media4.giphy.com/media/kliStk02WKPkHxDUCb/giphy.gif">
 
   ##
  
