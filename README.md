@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Pedro, analista de suporte e infraestrutura e desenvolvedor PHP! 👋
-### Atualmente utilizo e estudo essas tecnologias:
+### Atualmente estudo e utilizo essas tecnologias:
 
 
 <div style="display: inline_block"><br>
