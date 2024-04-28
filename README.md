@@ -11,7 +11,7 @@
 <img align="center" alt="Pedro-WP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
 <img align="center" alt="Pedro-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="center" alt="Pedro-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-<img align="center" alt="Pedro-Bash" height="30" width="30" src="https://icons-for-free.com/iff/png/256/bash+dark-1331550886960171470.png"/>
+<img align="center" alt="Pedro-Bash" height="30" width="30" src="https://s2.glbimg.com/AnXNMtY3VON9i-ZO89UgGFg1X2g=/288x0/s.glbimg.com/jo/g1/f/original/2016/07/18/ubuntulogo.png"/>
 </div>
 <img align="right" alt="Pedro-gif" height="200" src="https://media4.giphy.com/media/kliStk02WKPkHxDUCb/giphy.gif">
 
