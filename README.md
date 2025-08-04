@@ -6,29 +6,34 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
 
 ### 🚀 Minhas Habilidades
 
-<p align="left">
+<p align="center">
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://wordpress.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://azure.microsoft.com/pt-br/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.ubuntu.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32" style="margin: 10px;"/> 
+  </a>
+  <a href="https://www.kali.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="kali linux" width="32" height="32" style="margin: 10px;"/> 
   </a>
 </p>
+<p align="center"><strong>💻 + 🔐 Segurança da Informação com Kali Linux</strong></p>
+
 
 ---
 
