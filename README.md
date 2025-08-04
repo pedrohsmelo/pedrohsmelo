@@ -26,10 +26,10 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="32" height="32" style="margin: 8px;"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 8px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32" style="margin: 8px;"/> 
   </a>
   <a href="https://www.kali.org/" target="_blank"> 
-    <img src="https://logodix.com/logo/1287745.png" alt="kali linux" width="32" height="32" style="margin: 8px;"/> 
+    <img src="https://logodix.com/logo/1287745.png" alt="kali linux" width="50" height="50" style="margin: 8px;"/> 
   </a>
 </p>
 
