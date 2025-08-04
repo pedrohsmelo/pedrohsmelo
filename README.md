@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Pedro, analista de sistemas! 👋
 
-<img align="right" alt="Pedro-gif" height="180" src="https://media4.giphy.com/media/kliStk02WKPkHxDUCb/giphy.gif">
-
 Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos.
 
 ---
