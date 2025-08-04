@@ -1,24 +1,46 @@
 ## Olá! Eu sou o Pedro, analista de sistemas! 👋
-### Atualmente estudo e utilizo essas tecnologias:
 
+<img align="right" alt="Pedro-gif" height="180" src="https://media4.giphy.com/media/kliStk02WKPkHxDUCb/giphy.gif">
 
-<div style="display: inline_block"><br>
-<a href = "https://github.com/pedrohsmelo/pedrohsmelo">
-<img align="center" alt="Pedro-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="center" alt="Pedro-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="center" alt="Pedro-WP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
-<img align="center" alt="Pedro-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="center" alt="Pedro-Ubuntu" height="31" width="31" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>&nbsp;
-<img align="center" alt="Pedro-Bash" height="30" width="30" src="https://icons-for-free.com/iff/png/256/bash+dark-1331550886960171470.png"/>
+Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos.
+
+---
+
+### 🚀 Minhas Habilidades
+
+<p align="left">
+  <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://wordpress.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.ubuntu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🌱 O que estou aprendendo
+
+Atualmente, estou me aprofundando em **Automação de Infraestrutura**.
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div>
+  <a href="https://github.com/pedrohsmelo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrohsmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsmelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<img align="right" alt="Pedro-gif" height="200" src="https://media4.giphy.com/media/kliStk02WKPkHxDUCb/giphy.gif">
 
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/pedro-h-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+### 📫 Como me encontrar
+
+<p>
+  <a href="https://www.linkedin.com/in/pedro-h-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:seu-email-aqui@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCe2qhKRj24PMiJRMe7-7TFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/cyber.rasta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-
+</p>
