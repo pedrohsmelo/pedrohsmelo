@@ -36,14 +36,13 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
 
 ### 🌱 O que estou aprendendo
 
-Atualmente, estou me aprofundando em **Automação e Agentede de IA**.
+Atualmente, estou me aprofundando em **Automação e Agentes de IA**.
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedrohsmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsmelo&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
