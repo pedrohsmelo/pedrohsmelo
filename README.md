@@ -26,7 +26,7 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32" style="margin: 10px;"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36" style="margin: 10px;"/> 
   </a>
 
 ---
@@ -51,7 +51,7 @@ Atualmente, estou me aprofundando em **Automação e Agentes de IA**.
   <a href="https://www.linkedin.com/in/pedro-h-melo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:pedro.hsmelo@hotmail.com">
+  <a href="mailto:rastaredhat@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.youtube.com/channel/UCe2qhKRj24PMiJRMe7-7TFA" target="_blank">
