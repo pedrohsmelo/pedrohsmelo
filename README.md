@@ -6,8 +6,6 @@
 <a href = "https://github.com/pedrohsmelo/pedrohsmelo">
 <img align="center" alt="Pedro-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="center" alt="Pedro-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Pedro-WP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
 <img align="center" alt="Pedro-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="center" alt="Pedro-Ubuntu" height="31" width="31" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>&nbsp;
