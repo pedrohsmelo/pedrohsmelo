@@ -20,7 +20,7 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.ubuntu.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="32" height="32" style="margin: 10px;"/> 
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="32" height="32" style="margin: 10px;"/> 
@@ -29,15 +29,15 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32" style="margin: 10px;"/> 
   </a>
   <a href="https://www.kali.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="kali linux" width="32" height="32" style="margin: 10px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="kali linux" width="32" height="32" style="margin: 10px;"/> 
   </a>
 </p>
-<p align="center"><strong>💻 + 🔐 Segurança da Informação com Kali Linux</strong></p>
 
+<p align="center"><strong>💻 + 🔐 Segurança da Informação com Kali Linux</strong></p>
 
 ---
 
-### 🌱 O que estou aprendendo
+### O que estou aprendendo
 
 Atualmente, estou me aprofundando em **Automação e Agentes de IA**.
 
@@ -45,7 +45,7 @@ Atualmente, estou me aprofundando em **Automação e Agentes de IA**.
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="left">
+<div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsmelo&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
@@ -53,7 +53,7 @@ Atualmente, estou me aprofundando em **Automação e Agentes de IA**.
 
 ### 📫 Como me encontrar
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/pedro-h-melo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
