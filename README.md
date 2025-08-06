@@ -51,7 +51,7 @@ Atualmente, estou me aprofundando em **Automação e Agentes de IA**.
   <a href="https://www.linkedin.com/in/pedro-h-melo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:rastaredhat@proton.me">
+  <a href="mailto:contato@tecnologiaemfoco.tech">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.youtube.com/channel/UCe2qhKRj24PMiJRMe7-7TFA" target="_blank">
